@@ -1,3 +1,8 @@
+# Exercise 0.6: New Note in SPA Diagram
+
+This diagram shows what happens when a user creates a new note on a Single Page Applicaton (SPA)
+
+```mermaid
 sequenceDiagram
     participant Browser
     participant Server
